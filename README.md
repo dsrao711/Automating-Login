@@ -20,4 +20,5 @@ pytest Test/test_LoginPage.py
 
 ## Note : 
 
+- Download Chrome webdriver and change the path of driver accordingly in the config file
 - Change the locators and the the config file according the web app you are automating login for
