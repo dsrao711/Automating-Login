@@ -9,7 +9,7 @@
 
 ## Steps to run :
 
-Clone this repo in your local machine 
+Clone this repo in your local machine , Make sure to install chrome webdriver for selenium 
 
 ```
 cd Automating-Login
